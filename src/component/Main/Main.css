@@ -1,0 +1,59 @@
+.container-sm, .album{
+    background-color: #13131300 !important;
+}
+
+h2{
+  color: #fff !important;
+}
+
+.card, .shadow-sm{
+    border: 2px solid #131313 !important;
+    background-color: #1313139d !important;
+    color: #fff !important;
+}
+
+.spinner-border{
+  text-align: center !important;
+}
+
+.text-align{
+  text-align: center !important;
+  margin-bottom: 10px;
+}
+
+.pb-2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.paginationBttns {
+    width: 100%;
+    display: flex;
+    list-style: none;
+    margin: 2% 0;
+    text-decoration: none;
+    transition: 0.5s;
+    font-size: 20px;
+    color: #fff;
+  }
+  .paginationBttns a {
+    padding: 5px 15px;
+    margin: 0 5px;
+    transition: 0.5s;
+    border-radius: 5px;
+  }
+
+  .paginationBttns a:hover {
+    background-color: blue;
+    transition: 0.5s;
+  }
+
+  .break{
+    text-decoration: none;
+    color:white;
+  }
+
+  .break:hover{
+    color:white;
+    transition: 0.5s;
+  }

@@ -1,0 +1,16 @@
+.col-form-label, .form-text{
+    color: white !important;
+}
+
+.g-3{
+    margin-bottom: 20px;
+}
+
+.container{
+    width: 100%;
+    height: 100vh;
+}
+
+.bt{
+    margin-right: 20px;
+}
